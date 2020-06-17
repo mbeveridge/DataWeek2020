@@ -7,9 +7,9 @@
 | 15/5/20 | --- | [Data Science and COVID 19 & Data Week Introduction](https://www.eventbrite.co.uk/e/data-science-and-covid-19-data-week-introduction-tickets-104979319972) | --- | --- | ___ |
 | 15/5/20 | IP | Intermediate Python | Python | [YouTube](https://www.youtube.com/watch?v=xWsJ_qk-eJE) 13/5/20 | ([link](https://milliams.com/courses/2020-06-15-intermediate_python/)); [link2](https://milliams.com/courses/intermediate_python/); [GitLab](https://gitlab.com/milliams/intermediate_python) |
 | 16/5/20 | --- | [Increasing Engagement with your Data](https://www.eventbrite.co.uk/e/talk-increasing-engagement-with-your-data-tickets-104513705306) [Luna9] | --- | --- | --- |
-| 16/5/20 | IDA | [Introduction to data analysis in Python](https://www.eventbrite.co.uk/e/introduction-to-data-analysis-in-python-tickets-94393402207) | Python (pandas, matplotlib) | [YouTube](https://www.youtube.com/watch?v=NHrfNb6tZ6o) 7/4/20 | ([link](https://milliams.com/courses/2020-06-16-data_analysis_python/)); [link2](https://milliams.com/courses/data_analysis_python/) |
-| 17/5/20 | --- | Do you want to be a data rockstar? Learn Tableau [TheInformationLab] | --- | --- | --- |
-| 17/5/20 | ADA | [Applied data analysis in Python](https://www.youtube.com/watch?v=opX_9c2V9f4) | Python (scikit-learn) | [YouTube](https://www.youtube.com/watch?v=opX_9c2V9f4) 16/5/20 | link; [link2](https://milliams.gitlab.io/applied_data_analysis/) |
+| 16/5/20 | IDA | [Introduction to data analysis in Python](https://www.eventbrite.co.uk/e/introduction-to-data-analysis-in-python-tickets-94393402207) | Python | [YouTube](https://www.youtube.com/watch?v=NHrfNb6tZ6o) 7/4/20 | ([link](https://milliams.com/courses/2020-06-16-data_analysis_python/)); [link2](https://milliams.com/courses/data_analysis_python/) |
+| 17/5/20 | TAB | [Do you want to be a Data Rockstar?](https://www.eventbrite.co.uk/e/do-you-want-to-be-a-data-rockstar-learn-tableau-tickets-97698716491) [TheInformationLab] | (Tableau) | --- | [GDrive](https://drive.google.com/drive/folders/1T2dO6o4HY_isykYc4JNvYKhpI3KiJc3H) |
+| 17/5/20 | ADA | [Applied data analysis in Python](https://www.eventbrite.co.uk/e/applied-data-analysis-in-python-tickets-94394166493) | Python | [YouTube](https://www.youtube.com/watch?v=opX_9c2V9f4) 16/5/20 | [link](https://milliams.com/courses/2020-06-17-applied_data_analysis/); [link2](https://milliams.gitlab.io/applied_data_analysis/) |
 | 18/5/20 | --- | New data on COVID-19 is undermined by old statistical problems | --- | --- | --- |
 | 18/5/20 | IDL | Introduction to deep learning | --- | --- | --- |
 | 19/5/20 | TIDY | Tour of the Tidyverse [MangoSolutions] | R | --- | --- |
@@ -38,7 +38,7 @@
 
 
 ### --- :: Increasing Engagement with your Data
-###### [ Michael Green : Luna9 ]
+###### [ Michael Green : [Luna 9](https://twitter.com/luna9design) ]
 
 * *"Data is only useful if you can explain what it means"*
 
@@ -46,8 +46,28 @@
 ### IDA :: Introduction to data analysis in Python
 ###### [ [Matt Williams](https://twitter.com/milliams), Alastair Tanner : Advanced Computing Research Centre ]
 
+[ `pandas`; `matplotlib` ]
 
-### --- :: 
+
+### TAB :: Do you want to be a Data Rockstar?
+###### [ [Luke Stoughton](https://twitter.com/barnsleybeast) : The Information Lab ]
+
+
+### ADA :: Applied data analysis in Python
+###### [ [Matt Williams](https://twitter.com/milliams), Alastair Tanner : Advanced Computing Research Centre ]
+
+[ `scikit-learn` ]
+
+
+### --- :: New data on COVID-19 is undermined by old statistical problems
 ###### [ xxx ]
 
 
+### IDL :: Introduction to deep learning
+###### [ [Matt Williams](https://twitter.com/milliams), Alastair Tanner : Advanced Computing Research Centre ]
+
+
+### TIDY :: Tour of the Tidyverse
+###### [ xxx : Mango Solutions ]
+
+[ `tidyverse` ]
