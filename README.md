@@ -16,7 +16,7 @@
 
 ---
 
-### --- :: Data Science and COVID 19 & Data Week Introduction
+### --- :: Data Science and COVID 19 & Data Week Introduction :: [[pdf](http://www.bristol.ac.uk/media-library/sites/jean-golding-institute/documents/data-week-2020/Data%20science%20COVID%2019%20and%20social%20change.pdf)]
 ###### [ Prof Kate Robson Brown : Director of the JGI ]
 
 
@@ -51,9 +51,9 @@
 ### --- :: New data on COVID-19 is undermined by old statistical problems
 ###### [ [Gibran Hemani](https://twitter.com/explodecomputer) : University of Bristol]
 
-* *"My main aim is convince you that a problem known as ‘collider bias’, which arises when your samples are selected non-randomly, is a serious threat to the validity of inferences being made from these data."*
+* *"My main aim is convince you that a problem known as ‘collider bias’, which arises when your samples are selected non-randomly, is a serious threat to the validity of inferences being made from these data"*
 
-* *"Have a look at this [twitter thread](https://twitter.com/bristimtom/status/1250731747039379456?s=20) for a gentle introduction, and links to a blog post and recent paper on the subject."*
+* *"Have a look at this [twitter thread](https://twitter.com/bristimtom/status/1250731747039379456?s=20) for a gentle introduction, and links to a blog post and recent paper on the subject"*
 
 
 ### --- :: Introduction to deep learning
@@ -68,7 +68,7 @@
 * Google's [AI principles](https://blog.google/technology/ai/ai-principles/)
 
 
-### TIDY :: Tour of the Tidyverse
+### TIDY :: Tour of the Tidyverse :: [[pdf](http://www.bristol.ac.uk/media-library/sites/jean-golding-institute/documents/data-week-2020/Tour%20of%20the%20Tidyverse.pdf)]
 ###### [ Max Kronborg : [Mango Solutions](https://twitter.com/MangoTheCat) ]
 
 [ `tidyverse` ]
