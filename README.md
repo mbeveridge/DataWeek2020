@@ -11,8 +11,8 @@
 | 17/5/20 | TAB | [Do you want to be a Data Rockstar?](https://www.eventbrite.co.uk/e/do-you-want-to-be-a-data-rockstar-learn-tableau-tickets-97698716491) [TheInformationLab] | (Tableau) | [17/5/20](https://www.youtube.com/watch?v=ROY2CwwS_XE) | [GDrive](https://drive.google.com/drive/folders/1T2dO6o4HY_isykYc4JNvYKhpI3KiJc3H) |
 | 17/5/20 | ADA | [Applied data analysis in Python](https://www.eventbrite.co.uk/e/applied-data-analysis-in-python-tickets-94394166493) | Python | 17/5/20 ; ([16/5/20](https://www.youtube.com/watch?v=opX_9c2V9f4)) | ([link](https://milliams.com/courses/2020-06-17-applied_data_analysis/)); [link2](https://milliams.gitlab.io/applied_data_analysis/) |
 | 18/5/20 | --- | [New data on COVID-19 is undermined by old statistical problems](https://www.eventbrite.co.uk/e/new-data-on-covid-19-is-undermined-by-old-statistical-problems-tickets-105058540924) | --- | [18/5/20](https://www.youtube.com/watch?v=rVQsFziZ83g) | --- |
-| 18/5/20 | --- | [Introduction to deep learning](https://www.eventbrite.co.uk/e/introduction-to-deep-learning-tickets-94400379075) | Python | 18/5/20 | ([link](https://milliams.com/courses/2020-06-18-intro_deep_learning/)); [link2](https://milliams.com/courses/intro_deep_learning/#/); [GitHub](https://github.com/milliams/intro_deep_learning) |
-| 19/5/20 | TIDY | [Tour of the Tidyverse](https://www.eventbrite.co.uk/e/tour-of-the-tidyverse-tickets-94383877719) [MangoSolutions] | R | 19/5/20 | --- |
+| 18/5/20 | --- | [Introduction to deep learning](https://www.eventbrite.co.uk/e/introduction-to-deep-learning-tickets-94400379075) | Python | 18/5/20 ("Coming soon") | ([link](https://milliams.com/courses/2020-06-18-intro_deep_learning/)); [link2](https://milliams.com/courses/intro_deep_learning/#/); [GitHub](https://github.com/milliams/intro_deep_learning) |
+| 19/5/20 | TIDY | [Tour of the Tidyverse](https://www.eventbrite.co.uk/e/tour-of-the-tidyverse-tickets-94383877719) [MangoSolutions] | R | 19/5/20 ("Coming soon") | --- |
 
 ---
 
