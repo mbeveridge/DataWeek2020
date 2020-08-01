@@ -39,7 +39,7 @@
 
 
 ### TAB :: Do you want to be a Data Rockstar?
-###### [ [Luke Stoughton](https://twitter.com/barnsleybeast) : The Information Lab ]
+###### [ [Luke Stoughton](https://twitter.com/barnsleybeast) : [The Information Lab](https://twitter.com/infolabuk) ]
 
 
 ### ADA :: Applied data analysis in Python
